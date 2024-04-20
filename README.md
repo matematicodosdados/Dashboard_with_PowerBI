@@ -7,5 +7,10 @@
 
 ## Dashboard
 Context: This dashboard represents an analysis of products performance of an enterprise
+  ### Functionality
+  * A view of product performance in different cities of Brazil
+  * Product Ranking
+  * Products sell histogram
+  * Filter of Category, Region, Shop 
 
 ![Screenshot_1](https://github.com/matematicodosdados/Dashboard_with_PowerBI/assets/144749219/a5f09762-76eb-4e0f-8ab0-6795f7dd220e)
